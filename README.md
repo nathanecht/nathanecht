@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nathanecht
+- 👀 I’m interested by programming and tennis
+- 🌱 I’m currently learning c, java
+- ⏳ I code in : html/css, javascript, lua, python, c, java, and more in the future ...
